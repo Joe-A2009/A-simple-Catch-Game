@@ -8,4 +8,4 @@ El juego termina cuando pierdes todas tus vidas y tu score sera guardado en loca
 
 <img width="1703" height="708" alt="Image" src="https://github.com/user-attachments/assets/701ef718-8586-4251-b02c-700ce0d1db68" />
 
-<img width="597" height="448" alt="Image" src="https://github.com/user-attachments/assets/8dd5920a-e36c-4355-8e3a-6bda3cd73081" />
+<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/8dd5920a-e36c-4355-8e3a-6bda3cd73081" />
