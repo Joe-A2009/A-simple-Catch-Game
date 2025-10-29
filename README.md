@@ -8,6 +8,7 @@ El juego termina cuando pierdes todas tus vidas y tu score sera guardado en loca
 
 Al Entrar al archivo Html tendras un apartado de menu diciendo un breve texto con instrucciones de movimiento para el juegador, cuando se presione el boton de iniciar juego este empezara automaticamente.
 Tambien esta una opcion para visualizar el ranking de los 5 scores mas altos guardados en el localstorage, este se visualiza en formato de tabla con nombre y puntuacion como columnas
+
 <img width="1703" height="708" alt="Image" src="https://github.com/user-attachments/assets/701ef718-8586-4251-b02c-700ce0d1db68" />
 
 Ahora si el juego principal donde tienes que atrapar la fruta con la canasta evitando que se te caiga, evitar las bombas que van cayendo y cuando tengas la oportunidad obtener las vidas
