@@ -5,3 +5,5 @@ Durante el juego irán cayendo manzanas desde arriba, el jugador maneja una cana
 El objetivo del jugador será atrapar las manzanas con la canasta para obtener puntos. Sin embargo para añadir mas variedad y dificultad en el juego si el jugador no atrapa una manzana entonces perderas una vida automaticamente, el jugador tiene 5 vidas al inicio pero puede tener un maximo de 7 vidas.
 Ademas de manzanas caeran bombas y corazones, las bombas al caer en tu canasta perderas 2 vidas automaticamente y tendra un sonido de explosion, los corazones por otro lado si los atrapas con la canasta obtendras 1 vida.
 El juego termina cuando pierdes todas tus vidas y tu score sera guardado en localstore.
+
+<img width="1703" height="708" alt="Image" src="https://github.com/user-attachments/assets/701ef718-8586-4251-b02c-700ce0d1db68" />
